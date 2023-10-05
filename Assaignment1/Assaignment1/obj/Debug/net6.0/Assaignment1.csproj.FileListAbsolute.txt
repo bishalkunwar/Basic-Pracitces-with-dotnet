@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\bin\Debug\net6.0\Assaignment1.exe
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\bin\Debug\net6.0\Assaignment1.deps.json
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\bin\Debug\net6.0\Assaignment1.runtimeconfig.json
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\bin\Debug\net6.0\Assaignment1.dll
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\bin\Debug\net6.0\Assaignment1.pdb
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.dll
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\refint\Assaignment1.dll
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.pdb
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\Assaignment1.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Assaignment1\Assaignment1\obj\Debug\net6.0\ref\Assaignment1.dll
